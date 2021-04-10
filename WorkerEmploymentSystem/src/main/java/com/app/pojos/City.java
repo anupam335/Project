@@ -1,0 +1,5 @@
+package com.app.pojos;
+
+public enum City {
+	PUNE,MUMBAI,NAGPUR,BHOPAL,INDORE,AHMEDABAD,JAIPUR,NOIDA,BANGALORE
+}
